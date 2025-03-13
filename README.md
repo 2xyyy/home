@@ -4,5 +4,5 @@
 
 :kissing_heart:**now学习HTML+CSS+Javascript前端开发ing**<br>
 :heart_eyes:**now学习单片机ing**<br>​
-:stuck_out_tongue_winking_eye:**want学习CSAPPing**<br>
+:stuck_out_tongue_winking_eye:**CSAPPing**<br>
 :thinking:**想摆烂**<br>
